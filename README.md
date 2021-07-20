@@ -34,25 +34,30 @@ This game uses “eco points” for currency. Eco points are gained whenever any
 • fruit is fed to a dinosaur (15 points) <br>
 • a stegosaur hatches (100 points) <br> 
 • an allosaur hatches (1000 points) <br>
- <br>
+
+
 5. Vending Machine
 • A vending machine is available on the map which sells the following items:  <br>
 • hay, fruit, vegetarian meal kit, carnivore meal kit, stegosaur eggs, allosaur eggs, laser gun  <br>
 • Vegetarian and carnivore meal kits are items that the player can feed to a vegetarian or carnivorous dinosaur. The meal kit will fill the target dinosaur up to it maximum food level and then disappear. <br>
 • The laser gun is a weapon that does enough damage to kill a stegosaur in one or two hits. The player can use this to ensure that the stegosaurs do not grow too quickly for the available food supply, and to create food for allosaurs. <br>
  <br>
+
 5. Allosaurs <br>
 Like stegosaurs, allosaurs must be able to feed, breed, and grow. But unlike stegosaurs, Allosaurs are carnivores – they eat meat. If they go near a stegosaur, they will attack it. If they go near a dead stegosaur, they will move toward it and eat it.
 Allosaurs do not appear on the map at the start of the game. Their eggs can be purchased from the vending machine for 1000 points each. Adult Allosaurs have a maximum food level of 100. They can eat dead Allosaurs for an increase of 50 in their food level, or eggs for an increase of 10. 
  <br>
+
 6. Thirst and water <br>
 As well as hunger, dinosaurs also experience thirst. As with hunger, animals should lose one point of water each turn. When the water level gets low, the animal should water to drink on the map. Land-based creatures cannot enter water, and trees cannot grow there. 
  <br>
+
 7. Agilisaurus <br>
 • Agilisaurus is a small omnivorous dinosaur – it can eat fruits, grass, hay, any kind of meal kit, and meat. It can seek out corpses, but is not large enough to attack an Allosaur or Stegosaur.  <br>
 • Allosaurs will hunt, kill, and eat Agilisaurus, although they are not worth a large amount of food value as they are small. <br>
 • Agilisaurus eggs is available for purchase in the vending machine for a suitable amount of ecopoints. <br>
  <br>
+
 8. Archaeopteryx <br>
 • Archaeopteryx can fly and traverse water squares. <br>
 • Archaeopteryx are carnivorous, and will scavenge and attack other dinosaurs for food. <br>
